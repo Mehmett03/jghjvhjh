@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>DERS</title>
+    </head>
+
+    <body>
+            adı:<input type=""><br/>
+            eposta:<input type=""><br/>
+            tel:<input type=""><br/>
+            açıklama:<input type=""><br/>
+
+    </body>
+</html>
